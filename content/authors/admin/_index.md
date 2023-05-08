@@ -37,7 +37,6 @@ social:
   - icon: cv
     icon_pack: ai
     link: https://drive.google.com/file/d/1ZoUdzRUHrE8oecvbnjfk_NHVltcnPqma/view?usp=sharing
-organizations: []
 education:
   courses:
     - course: African Master’s in Machine Intelligence (AMMI)
