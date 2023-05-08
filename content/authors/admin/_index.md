@@ -1,8 +1,7 @@
 ---
 title: Stephen Kiilu
 role: NLP Researcher
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Machine Learning, Multilingual NLP, and Low-resource NLP.
 interests: []
 social:
   - icon: envelope
@@ -29,15 +28,15 @@ social:
 organizations: []
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: African Master’s in Machine Intelligence (AMMI)
+      institution: African Institute for Mathematical Sciences (AIMS) Senegal.
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Mathematical Sciences
+      institution: African Institute for Mathematical Sciences (AIMS) Rwanda.
+      year: 2020-2021
+    - course: BSc in Applied Statistics with IT
+      institution: Maseno University
+      year: 2014-2018
 superuser: true
 status:
   icon: ☕️
@@ -46,6 +45,6 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-S﻿tephen Kiilu is a machine learning researcher. I am a second-year master's student pursuing the [African Master’s in Machine Intelligence (AMMI 2022)](https://aimsammi.org/) at the African Institute for Mathematical Sciences (AIMS), Senegal. AMMI is a novel, fully funded, intensive graduate program in machine learning and its applications, sponsored by Google and Meta. Prior to joining the AMMI program, I graduated with an M.Sc. in Mathematical Sciences from AIMS Rwanda in 2021. My background is in statistics, and I hold a B.Sc. in Applied Statistics with IT from Maseno University with first-class honors.
+Stephen Kiilu is a machine learning researcher. I am a second-year master's student pursuing the [African Master’s in Machine Intelligence (AMMI 2022)](https://aimsammi.org/) at the African Institute for Mathematical Sciences (AIMS), Senegal. AMMI is a novel, fully funded, intensive graduate program in machine learning and its applications, sponsored by Google and Meta. Prior to joining the AMMI program, I graduated with an M.Sc. in Mathematical Sciences from AIMS Rwanda in 2021. My background is in statistics, and I hold a B.Sc. in Applied Statistics with IT from Maseno University with first-class honors.
 
-My primary research interest is in machine learning. Within machine learning, I’m generally interested in the intersection of NLP and machine learning. In particular, I am interested in exploring topics in NLP like language models, multilingual models, and low-resource NLPssss.
+My primary research interest is in machine learning. Within machine learning, I’m generally interested in the intersection of NLP and machine learning. In particular, I am interested in exploring topics in NLP like language models, multilingual models, and low-resource NLP.
