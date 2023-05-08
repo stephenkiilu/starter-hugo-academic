@@ -1,6 +1,9 @@
 ---
 title: Stephen Kiilu
 role: NLP Researcher
+organizations:
+  - name: DFKI
+    link: https://www.dfki.de/web/forschung/forschungsbereiche/data-science-und-ihre-anwendungen/mitarbeiter-dsa
 bio: My research interests include Machine learning, multilingual NLP, and
  low-resource NLP.
 interests:
@@ -45,7 +48,7 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Kiil
+last_name: Kiilu
 highlight_name: true
 first_name: Stephen
 email: "skiilu@aimsammi.org"
