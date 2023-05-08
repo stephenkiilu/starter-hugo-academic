@@ -31,9 +31,6 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
-organizations: 
- - name: AMMIs
-    link: https://www.dfki.de/web/forschung/forschungsbereiche/data-science-und-ihre-anwendungen/mitarbeiter-dsa
 education:
   courses:
     - course: African Master’s in Machine Intelligence (AMMI)
