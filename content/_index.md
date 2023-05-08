@@ -66,7 +66,7 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Analysing
+              * Analysingssss
               * Modelling
               * Deploying
         - title: Professor of Semiconductor Physics
