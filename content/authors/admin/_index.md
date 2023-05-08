@@ -3,10 +3,7 @@ title: Stephen Kiilu
 role: NLP Researcher
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -29,9 +26,7 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+organizations: []
 education:
   courses:
     - course: PhD in Artificial Intelligence
