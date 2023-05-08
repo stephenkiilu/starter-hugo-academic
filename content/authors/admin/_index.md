@@ -10,8 +10,16 @@ organizations:
   - name: DFKI
     link: https://www.dfki.de/web/forschung/forschungsbereiche/data-science-und-ihre-anwendungen/mitarbeiter-dsa
 
-bio: My research interests include machine Learning, multilingual nLP, and low-resource NLP.
-interests: []
+bio: My research interests include machine Learning, multilingual NLP, and low-resource NLP.
+
+# Interests to show in About widget
+interests:
+  - Machine Learning
+  - multilingual NLP
+  - Low-resource NLP
+  - Trustworthy machine learning
+  - Climate Change
+  - 
 social:
   - icon: envelope
     icon_pack: fas
