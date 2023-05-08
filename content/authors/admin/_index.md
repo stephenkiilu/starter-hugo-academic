@@ -32,7 +32,7 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations: 
- - name: AMMI
+ - name: AMMIs
     link: https://www.dfki.de/web/forschung/forschungsbereiche/data-science-und-ihre-anwendungen/mitarbeiter-dsa
 education:
   courses:
