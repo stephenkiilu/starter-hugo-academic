@@ -3,9 +3,14 @@ title: Stephen Kiilu
 # Full name (for SEO)
 first_name: Stephen
 last_name: Kiilu
+
 role: NLP Researcher
-bio: My research interests include Machine Learning, Multilingual NLP, and
-  Low-resource NLP.
+
+organizations:
+  - name: DFKI
+    link: https://www.dfki.de/web/forschung/forschungsbereiche/data-science-und-ihre-anwendungen/mitarbeiter-dsa
+
+bio: My research interests include machine Learning, multilingual nLP, and low-resource NLP.
 interests: []
 social:
   - icon: envelope
