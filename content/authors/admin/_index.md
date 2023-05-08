@@ -1,6 +1,6 @@
 ---
 title: Stephen Kiilu
-role: Professor of Artificial Intelligence
+role: NLP Researcher
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
