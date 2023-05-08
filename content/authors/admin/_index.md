@@ -27,11 +27,7 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/EtienneKiilu
-    label: Follow me on Twitter
-    display:
-      header: true icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ  
+    label: Follow me on Twitter 
   - icon: github
     icon_pack: fab
     link: https://github.com/stephenkiilu
