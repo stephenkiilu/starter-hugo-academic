@@ -66,7 +66,7 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Analysingssss
+              * Analysingz
               * Modelling
               * Deploying
         - title: Professor of Semiconductor Physics
@@ -180,17 +180,6 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
   - block: collection
     content:
       title: Recent Publications
