@@ -5,8 +5,8 @@ bio: My research interests include Machine learning, multilingual NLP, and
  low-resource NLP.
 interests:
   - Machine learning
-  - multilingual NLP
-  - low-resource NLP
+  - Multilingual NLP
+  - Low-resource NLP
   - Computer Vision
   - Climate Change
 social:
