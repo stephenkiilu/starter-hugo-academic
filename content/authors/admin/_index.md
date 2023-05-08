@@ -30,7 +30,7 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-<!--   - icon: graduation-cap
+<!--  - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ   -->
   - icon: github
