@@ -1,5 +1,8 @@
 ---
 title: Stephen Kiilu
+# Full name (for SEO)
+first_name: Stephen
+last_name: Kiilu
 role: NLP Researcher
 bio: My research interests include Machine Learning, Multilingual NLP, and
   Low-resource NLP.
@@ -41,9 +44,6 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
-highlight_name: true
-first_name: Alice
 email: ""
 ---
 Stephen Kiilu is a machine learning researcher. I am a second-year master's student pursuing the [African Master’s in Machine Intelligence (AMMI 2022)](https://aimsammi.org/) at the African Institute for Mathematical Sciences (AIMS), Senegal. AMMI is a novel, fully funded, intensive graduate program in machine learning and its applications, sponsored by Google and Meta. Prior to joining the AMMI program, I graduated with an M.Sc. in Mathematical Sciences from AIMS Rwanda in 2021. My background is in statistics, and I hold a B.Sc. in Applied Statistics with IT from Maseno University with first-class honors.
