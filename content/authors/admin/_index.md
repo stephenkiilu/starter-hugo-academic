@@ -26,7 +26,7 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/EtienneKiilu
     label: Follow me on Twitter
     display:
       header: true
@@ -35,13 +35,13 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/stephenkiilu
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/stephen-kiilu-401000118/
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://drive.google.com/file/d/1ZoUdzRUHrE8oecvbnjfk_NHVltcnPqma/view?usp=sharing
 organizations: []
 education:
   courses:
