@@ -1,12 +1,12 @@
 ---
 title: Stephen Kiilu
 role: NLP Researcher
-bio: My research interests include Machine Learning, Multilingual NLP, and
-  Low-resource NLP.
+bio: My research interests include Machine learning, multilingual NLP, and
+ low-resource NLP.
 interests:
-  - Representation Learning
-  - Trustworthy machine learning
-  - NLP
+  - Machine learning
+  - multilingual NLP
+  - low-resource NLP
   - Computer Vision
   - Climate Change
 social:
