@@ -19,7 +19,7 @@ interests:
   - Low-resource NLP
   - Trustworthy machine learning
   - Climate Change
-  - 
+ 
 social:
   - icon: envelope
     icon_pack: fas
