@@ -54,7 +54,7 @@ sections:
             Responsibilities include:
 
             * Worked on data analysis and reporting.
-            * Conducted system audits, fleet monitoring, and tracking, and managed the freezer management system.
+            * Conducted systemn audits, fleet monitoring, and tracking, and managed the freezer management system.
 
     design:
       columns: '2'
