@@ -26,7 +26,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Environment and Sustainability Advisor.
-          company: Crossroads International
+          company: Crossroads International.
           company_url: 'https://cintl.org/'
           company_logo: org-gc
           location: Montreal, Canada.
