@@ -41,7 +41,7 @@ experience:
   - title: Research Intern
     company: Mila-Quebec AI Institute
     company_url: 'https://mila.quebec/en/'
-    company_logo: https://drive.google.com/file/d/10iuUzGx1_B1JlEKJeNmg5Mbb9xMZ_S2c/view?usp=sharing
+    company_logo: org-X
     location: Montreal, Canada
     date_start: '2021-10-04'
     date_end: '2022-04-30'
