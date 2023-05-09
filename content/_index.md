@@ -41,7 +41,7 @@ sections:
               * Supported the iSpace Foundation’s climate change programs.
               * Developed policies that support the iSpace Foundation’s 2021–2025 climate action agenda.
               * Conducted training and workshops to build climate change capacity for communities in Ghana.
-              * Led the iSpace Foundation’s climate change research and outreach activitiess. 
+              * Led the iSpace Foundation’s climate change research and outreach activities. 
 
     design:
       columns: '2'
