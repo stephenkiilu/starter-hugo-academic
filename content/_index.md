@@ -53,7 +53,7 @@ sections:
               * Worked on data analysis and reporting.
               * Conducted system audits, fleet monitoring, and tracking, and managed the freezer management system
 
-        - title: DContent Supervisor
+        - title: Content Supervisor
           company: Kenya National Bureau of Statistics, KNBS
           company_url: 'https://www.knbs.or.ke/'
           company_logo: org-x
