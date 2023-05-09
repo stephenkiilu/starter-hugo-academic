@@ -7,8 +7,8 @@ last_name: Kiilu
 role: NLP Researcher
 
 organizations:
-  - name: DFKI
-    link: https://www.dfki.de/web/forschung/forschungsbereiche/data-science-und-ihre-anwendungen/mitarbeiter-dsa
+  - name: AMMI
+    link: https://aimsammi.org/
 
 bio: My research interests include machine Learning, multilingual NLP, and low-resource NLP.
 
