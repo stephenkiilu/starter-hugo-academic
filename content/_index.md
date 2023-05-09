@@ -26,7 +26,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       
 
-          - title: Environment and Sustainability Advisor.
+         - title: Environment and Sustainability Advisor.
           company: Crossroads Internationals
           company_url: 'https://cintl.org/'
           company_logo: org-x
