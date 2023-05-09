@@ -36,36 +36,36 @@ experience:
         * Supported the iSpace Foundation’s climate change programs.
         * Developed policies that support the iSpace Foundation’s 2021–2025 climate action agenda.
         * Conducted training and workshops to build climate change capacity for communities in Ghana.
-        * Led the iSpace Foundation’s climate change research and outreach activities
+        * Led the iSpace Foundation’s climate change research and outreach activities.
         
-  - title: Research Intern
-    company: Mila-Quebec AI Institute
-    company_url: 'https://mila.quebec/en/'
-    company_logo: org-X
-    location: Montreal, Canada
-    date_start: '2021-10-04'
-    date_end: '2022-04-30'
+  - title: Data Analyst
+    company: Glacier Products Limited,
+    company_url: 'https://dairyland.co.ke/'
+    company_logo: org-gdl
+    location: Nairobi, Kenya
+    date_start: '2020-03-01'
+    date_end: '2020-09-01'
     description: |2-
         Responsibilities include:
         
-        * Studying the tensions between fairness and the right to erasure in the context of machine learning (i.e machine unlearning).
-        * Advised by Prof. Golnoosh Farnadi and Dr. Ulrich Aivodji.
+        * Worked on data analysis and reporting.
+        * Conducted system audits, fleet monitoring, and tracking, and managed the freezer management system.
 
-  - title: Research Intern
-    company: Vector Institute
-    company_url: 'https://vectorinstitute.ai/'
-    company_logo: org-x
-    location: Toronto, Canada
-    date_start: '2021-05-04'
-    date_end: '2021-09-04'
+  - title: Content Supervisor
+    company: Kenya National Bureau of Statistics, KNBS
+    company_url: 'https://www.knbs.or.ke/'
+    company_logo: org-knbs
+    location: Nairobi, Kenya
+    date_start: '2019-08-01'
+    date_end: '2019-09-01'
     description: |2-
         Responsibilities include:
         
-        * Working on a project related to the idea of fairwashing where we try to detect if the interpretable model provided by the company is the exact
-          one or it is a fake fair model (paper accepted @ Neurips 2022).
-        * Advised by Prof. Nicolas Papernot.
+        * Coordinated the enumeration exercise (census) on behalf of the KNBS director general.
+        * Trained and supported field enumeration officers.
+        * Worked with the local national government administrative officers (NGAOs) to ensure that the census
 
-  - title: Teaching and Reseach Assistance 
+<!--   - title: Teaching and Reseach Assistance 
     company: African Master in Machine Intelligence (AMMI-Senegal)
     company_url: 'https://aimsammi.org/'
     company_logo: org-x
@@ -90,7 +90,7 @@ experience:
         
         * Work on Multimodal using memory shared to learn the single representation for the objects.
         * Engage in all parts of the research process including reading relevant literature, running experiments and writing results.
-        * Advised by Prof. Sanja Fidler.
+        * Advised by Prof. Sanja Fidler. -->
 
 design:
   columns: '2'
