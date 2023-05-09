@@ -113,7 +113,7 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
+        - name: Deep Learnings
           tag: Deep Learning
         - name: Other
           tag: Demo
