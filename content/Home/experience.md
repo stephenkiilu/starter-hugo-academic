@@ -22,18 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Assistant
-    company: DFKI
-    company_url: 'https://www.dfki.de/web/forschung/forschungsbereiche/data-science-und-ihre-anwendungen'
+  - title: Environment and Sustainability Advisor
+    company: Crossroads International
+    company_url: 'https://cintl.org/'
     company_logo: org-gc
-    location: Germany
-    date_start: '2022-11-15'
-    date_end: ''
+    location: Montreal, Canada.
+    date_start: '2022-09-01'
+    date_end: '2023-04-01'
+    A mandate with the iSpace Foundation in Accra, Ghana
     description: |2-
         Responsibilities include:
         
-        * Studying the tensions between fairness and the right to erasure in the context of machine learning (i.e machine unlearning).
-        * Advised by [Prof. Seth Flaxman]('https://sethrf.com/') and [Prof Sebastian vollmer]('https://sebastian.vollmer.ms/').
+        * Supported the iSpace Foundation’s climate change programs.
+        * Developed policies that support the iSpace Foundation’s 2021–2025 climate action agenda.
+        * Conducted training and workshops to build climate change capacity for communities in Ghana.
+        * Led the iSpace Foundation’s climate change research and outreach activities
+        
   - title: Research Intern
     company: Mila-Quebec AI Institute
     company_url: 'https://mila.quebec/en/'
