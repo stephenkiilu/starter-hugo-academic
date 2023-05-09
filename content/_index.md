@@ -40,8 +40,7 @@ sections:
               * Developed policies that support the iSpace Foundation’s 2021–2025 climate action agenda.
               * Conducted training and workshops to build climate change capacity for communities in Ghana.
               * Led the iSpace Foundation’s climate change research and outreach activities.
-
-        - title: Data Analyst
+       - title: Data Analyst
           company: Glacier Products Limited,
           company_url: 'https://dairyland.co.ke/'
           company_logo: org-gdl
