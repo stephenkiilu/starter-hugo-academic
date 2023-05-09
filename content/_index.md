@@ -33,11 +33,13 @@ sections:
           date_start: '2022-09-01'
           date_end: '2023-04-01'
           description: |2-
+            A mandate with the iSpace Foundation in Accra, Ghana
             Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Supported the iSpace Foundation’s climate change programs.
+              * Developed policies that support the iSpace Foundation’s 2021–2025 climate action agenda.
+              * Conducted training and workshops to build climate change capacity for communities in Ghana.
+              * Led the iSpace Foundation’s climate change research and outreach activities.
         - title: Professor of Semiconductor Physicsssss
           company: University X
           company_url: ''
