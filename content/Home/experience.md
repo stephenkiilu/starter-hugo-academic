@@ -65,7 +65,7 @@ experience:
         * Trained and supported field enumeration officers.
         * Worked with the local national government administrative officers (NGAOs) to ensure that the census
 
-<!--   - title: Teaching and Reseach Assistance 
+  - title: Teaching and Reseach Assistance 
     company: African Master in Machine Intelligence (AMMI-Senegal)
     company_url: 'https://aimsammi.org/'
     company_logo: org-x
@@ -90,7 +90,7 @@ experience:
         
         * Work on Multimodal using memory shared to learn the single representation for the objects.
         * Engage in all parts of the research process including reading relevant literature, running experiments and writing results.
-        * Advised by Prof. Sanja Fidler. -->
+        * Advised by Prof. Sanja Fidler. 
 
 design:
   columns: '2'
