@@ -30,7 +30,7 @@ sections:
         - title: Environment and Sustainability Advisor.
           company: Crossroads Internationals
           company_url: 'https://cintl.org/'
-          company_logo: org-x
+          company_logo: org-ci
           location: Montreal, Canada.
           date_start: '2022-09-01'
           date_end: '2023-04-01'
@@ -41,20 +41,19 @@ sections:
               * Supported the iSpace Foundation’s climate change programs.
               * Developed policies that support the iSpace Foundation’s 2021–2025 climate action agenda.
               * Conducted training and workshops to build climate change capacity for communities in Ghana.
-              * Led the iSpace Foundation’s climate change research and outreach activities.
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
+              * Led the iSpace Foundation’s climate change research and outreach activities. 
+      - title: Data Analyst
+        company: Glacier Products Limited,
+        company_url: 'https://dairyland.co.ke/'
+        company_logo: org-gdl
+        location: Nairobi, Kenya
+        date_start: '2020-03-01'
+        date_end: '2020-09-01'
+        description: |2-
+            Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+            * Worked on data analysis and reporting.
+            * Conducted system audits, fleet monitoring, and tracking, and managed the freezer management system.
 
     design:
       columns: '2'
