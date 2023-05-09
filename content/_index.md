@@ -24,22 +24,29 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      
       items:
-        - title: Environment and Sustainability Advisor.
-          company: Crossroads Internationals
-          company_url: 'https://cintl.org/'
-          company_logo: org-ci
-          location: Montreal, Canada.
-          date_start: '2022-09-01'
-          date_end: '2023-04-01'
+        - title: CEO
+          company: GenCoin
+          company_url: ''
+          company_logo: org-gc
+          location: California
+          date_start: '2021-01-01'
+          date_end: ''
           description: |2-
-              A mandate with the iSpace Foundation in Accra, Ghana.
               Responsibilities include:
 
-              * Supported the iSpace Foundation’s climate change programs.
-              * Developed policies that support the iSpace Foundation’s 2021–2025 climate action agenda.
-              * Conducted training and workshops to build climate change capacity for communities in Ghana.
-              * Led the iSpace Foundation’s climate change research and outreach activities......
+              * Analysing
+              * Modelling
+              * Deploying
+        - title: Professor of Semiconductor Physics
+          company: University X
+          company_url: ''
+          company_logo: org-x
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics.
 
     design:
       columns: '2'
