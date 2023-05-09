@@ -52,6 +52,18 @@ sections:
             Responsibilities include:
               * Worked on data analysis and reporting.
               * Conducted system audits, fleet monitoring, and tracking, and managed the freezer management system
+
+        - title: Data Analyst
+          company: Glacier Products Limited,
+          company_url: 'https://dairyland.co.ke/'
+          company_logo: org-x
+          location: Nairobi, Kenya
+          date_start: '2020-03-01'
+          date_end: '2020-09-01'
+          description: |2-
+            Responsibilities include:
+              * Worked on data analysis and reporting.
+              * Conducted system audits, fleet monitoring, and tracking, and managed the freezer management system
             
           
     design:
