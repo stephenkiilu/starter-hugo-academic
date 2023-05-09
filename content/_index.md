@@ -56,7 +56,7 @@ sections:
         - title: Content Supervisor
           company: Kenya National Bureau of Statistics, KNBS
           company_url: 'https://www.knbs.or.ke/'
-          company_logo: org-knbs
+          company_logo: org-x
           location: Nairobi, Kenya
           date_start: '2019-08-01'
           date_end: '2019-09-01'
