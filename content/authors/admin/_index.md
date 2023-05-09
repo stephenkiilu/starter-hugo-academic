@@ -58,7 +58,7 @@ Stephen Kiilu is a machine learning researcher. I am a second-year master's stud
 My primary research interest is in machine learning. Within machine learning, I’m generally interested in the intersection of NLP and machine learning. In particular, I am interested in exploring topics in NLP like language models, multilingual models, and low-resource NLP.
 
 
-In other news, I am very passionate about ML community, teaching, learning and research. I enjoy running and traveling. 
+In other news, I am very passionate about ML community, teaching, learning and research. I enjoy running and travelingxxx. 
 
 
 <!-- {{< icon name="download" pack="fas" >}} Download my [resume]('https://drive.google.com/file/d/15GmMc6WD01R2Y4ISvYm66E9SBrRU6yXD/view?usp=share_link') -->
@@ -70,4 +70,4 @@ News:
   - Aug, 2022: Serve as a programme committee for the [Deep Learning Indaba](https://deeplearningindaba.com/2022/indaba/organisers/), Tunis.
 <!--   - Jun, 2021: CO-Organizer of Women in Machine Learning and Data Science Khartoum Chapter[(WIMLDS-Khartoum)](http://wimlds.org/about-the-khartoum-team/), Sudan. -->
 <!--   - Nov, 2020: Machine Learning Consultant at Central Bureau of Statistics (CBS) , Train employers of CBS on ML basics and how to us ML to improve business performance. -->
-<!--   - Dec, 2019: Volunteer at Women in Machine Learning workshop(WiML) , NeurIPS 2019.  -->
+<!--   - Dec, 2019: Volunteer at Women in Machine Learning workshop(WiML), NeurIPS 2019.  -->
