@@ -47,6 +47,7 @@ experience:
     date_end: '2020-09-01'
     description: |2-
         Responsibilities include:
+        
         * Worked on data analysis and reporting.
         * Conducted system audits, fleet monitoring, and tracking, and managed the freezer management system.
 
