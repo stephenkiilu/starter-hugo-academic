@@ -25,7 +25,7 @@ experience:
   - title: Environment and Sustainability Advisor
     company: Crossroads International
     company_url: 'https://cintl.org/'
-    company_logo: org-CI
+    company_logo: org-x
     location: Montreal, Canada.
     date_start: '2022-09-01'
     date_end: '2023-04-01'
