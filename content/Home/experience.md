@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Environment and Sustainability Advisor
-    company: Crossroads International
+    company: Crossroads Internationals
     company_url: 'https://cintl.org/'
     company_logo: org-x
     location: Montreal, Canada.
