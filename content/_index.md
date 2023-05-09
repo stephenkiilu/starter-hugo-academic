@@ -28,7 +28,7 @@ sections:
         - title: CEO
           company: GenCoin
           company_url: ''
-          company_logo: org-x
+          company_logo: org-ci
           location: California
           date_start: '2021-01-01'
           date_end: ''
@@ -41,7 +41,7 @@ sections:
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
-          company_logo: org-x
+          company_logo: org-gdl
           location: California
           date_start: '2016-01-01'
           date_end: '2020-12-31'
@@ -50,7 +50,7 @@ sections:
         - title: Professor of Semiconductor Physicsssss
           company: University X
           company_url: ''
-          company_logo: org-x
+          company_logo: org-knbs
           location: California
           date_start: '2016-01-01'
           date_end: '2020-12-31'
