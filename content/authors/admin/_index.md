@@ -58,7 +58,7 @@ Stephen Kiilu is a machine learning researcher. I am a second-year master's stud
 My primary research interest is in machine learning. Within machine learning, I’m generally interested in the intersection of NLP and machine learning. In particular, I am interested in exploring topics in NLP like language models, multilingual models, and low-resource NLP.
 
 
-In other news, I am very passionate about ML community, teaching, learning and research. I enjoy running and travelingxxx. 
+In other news, I am very passionate about ML community, teaching, learning and research. I enjoy running and traveling. 
 
 
 <!-- {{< icon name="download" pack="fas" >}} Download my [resume]('https://drive.google.com/file/d/15GmMc6WD01R2Y4ISvYm66E9SBrRU6yXD/view?usp=share_link') -->
