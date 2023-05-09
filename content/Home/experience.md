@@ -63,7 +63,7 @@ experience:
         
         * Coordinated the enumeration exercise (census) on behalf of the KNBS director general.
         * Trained and supported field enumeration officers.
-        * Worked with the local national government administrative officers (NGAOs) to ensure that the census
+        * Worked with the local national government administrative officers (NGAOs) to ensure that the census.
 
 design:
   columns: '2'
