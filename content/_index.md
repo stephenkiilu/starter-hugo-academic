@@ -32,7 +32,7 @@ sections:
           location: Montreal, Canada.
           date_start: '2022-09-01'
           date_end: '2023-04-01'
-          description: |2-
+          description: 
             A mandate with the iSpace Foundation in Accra, Ghana.
             Responsibilities include:
             
