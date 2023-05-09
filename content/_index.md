@@ -36,6 +36,7 @@ sections:
           description: |2-
             A mandate with the iSpace Foundation in Accra, Ghana.
               Responsibilities include:
+              
               * Supported the iSpace Foundation’s climate change programs.
               * Developed policies that support the iSpace Foundation’s 2021–2025 climate action agenda.
               * Conducted training and workshops to build climate change capacity for communities in Ghana.
