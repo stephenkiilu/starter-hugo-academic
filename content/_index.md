@@ -5,19 +5,6 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
-    content:
-      title: Hugo Academic Themes
-      image:
-        filename: hero-academic.png
-      cta:
-        label: '**Get Started**'
-        url: https://wowchemy.com/templates/
-      cta_alt:
-        label: Ask a question
-        url: https://discord.gg/z8wNYzb
-      cta_note:
-        label: >-
 
   - block: about.biography
     id: about
