@@ -49,8 +49,7 @@ sections:
           date_start: '2020-03-01'
           date_end: '2020-09-01'
           description: |2-
-            Responsibilities include:
-        
+              Responsibilities include:
               * Worked on data analysis and reporting.
               * Conducted system audits, fleet monitoring, and tracking, and managed the freezer management system.
 
