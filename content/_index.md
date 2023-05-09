@@ -42,7 +42,7 @@ sections:
               * Led the iSpace Foundation’s climate change research and outreach activities.
               
         - title: Data Analyst
-          company: Glacier Products Limited,
+          company: Glacier Products Limited
           company_url: 'https://dairyland.co.ke/'
           company_logo: org-x
           location: Nairobi, Kenya
@@ -53,17 +53,18 @@ sections:
               * Worked on data analysis and reporting.
               * Conducted system audits, fleet monitoring, and tracking, and managed the freezer management system
 
-        - title: Data Analyst
-          company: Glacier Products Limited,
-          company_url: 'https://dairyland.co.ke/'
+        - title: DContent Supervisor
+          company: Kenya National Bureau of Statistics, KNBS
+          company_url: 'https://www.knbs.or.ke/'
           company_logo: org-x
           location: Nairobi, Kenya
-          date_start: '2020-03-01'
-          date_end: '2020-09-01'
+          date_start: '2019-08-01'
+          date_end: '2019-09-01'
           description: |2-
             Responsibilities include:
-              * Worked on data analysis and reporting.
-              * Conducted system audits, fleet monitoring, and tracking, and managed the freezer management system
+              * Coordinated the enumeration exercise (census) on behalf of the KNBS director general.
+              * Trained and supported field enumeration officers.
+              * Worked with the local national government administrative officers (NGAOs) to ensure that the census.
             
           
     design:
