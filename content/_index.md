@@ -135,7 +135,7 @@ sections:
       flip_alt_rows: false
   - block:  Publications
     content:
-      title: Publications
+      title: Publicationsss
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
