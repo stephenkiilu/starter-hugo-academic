@@ -69,12 +69,7 @@ sections:
           
     design:
       columns: '2'
-          
-  - block: collection
-    content:
-      title: Honours and awards      
-    design:
-      columns: '2'
+         
   - block: collection
     id: posts
     content:
