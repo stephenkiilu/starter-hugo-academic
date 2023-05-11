@@ -71,10 +71,10 @@ sections:
       columns: '2'
       
       
-  - block: collectionsss
+  - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Recent & Upcoming Talkssssss
       filters:
         folders:
           - event
