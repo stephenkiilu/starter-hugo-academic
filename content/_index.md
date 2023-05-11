@@ -70,7 +70,7 @@ sections:
     design:
       columns: '2'
           
-  - block: experience
+  - block: collection
     content:
       title: Honours and awards
     design:
