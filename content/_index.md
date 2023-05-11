@@ -125,6 +125,7 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block:  collection
+    headless: true
     content:
       title: Recent Publicationssss
       text: |-
