@@ -126,6 +126,7 @@ sections:
       flip_alt_rows: false
   - block:  Collection
     content:
+      id: Publications
       title: Recent Publications
       text: |-
         {{% callout note %}}
