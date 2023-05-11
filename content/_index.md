@@ -147,7 +147,7 @@ sections:
         folders:
           - publication
           - publication
-        exclude_featured: false
+        exclude_featured: true
     design:
       columns: '2'
       view: citation
