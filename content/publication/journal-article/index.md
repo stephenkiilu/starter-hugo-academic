@@ -39,8 +39,7 @@ featured: false
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
-# url_
-: ''
+# url_: ''
 # url_source: ''
 # url_video: ''
 
