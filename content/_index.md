@@ -124,8 +124,7 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block:  publication
-    id: talkssss
+  - block:  featured
     content:
       title: Recent Publications
       text: |-
