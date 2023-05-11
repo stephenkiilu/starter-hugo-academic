@@ -148,7 +148,7 @@ sections:
           - publication
         exclude_featured: false
     design:
-      columns: '1'
+      columns: '2'
       view: citation
   - block: collection
     id: talks
