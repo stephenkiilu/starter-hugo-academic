@@ -74,14 +74,8 @@ sections:
   - block: collection
     content:
       title: Honours and awards
-        - ddd
-        - ddd
-        - ddd
-        - ddddddd
     design:
       columns: '2'
-      
-      
   - block: collection
     id: posts
     content:
