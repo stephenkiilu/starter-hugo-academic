@@ -72,11 +72,7 @@ sections:
           
   - block: collection
     content:
-      title: Honours and awards
-      filters:
-        folders:
-          -experience
-        
+      title: Honours and awards      
     design:
       columns: '2'
   - block: collection
