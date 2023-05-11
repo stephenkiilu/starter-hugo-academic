@@ -146,7 +146,6 @@ sections:
       filters:
         folders:
           - publication
-          - publication
         exclude_featured: true
     design:
       columns: '2'
