@@ -126,7 +126,7 @@ sections:
       flip_alt_rows: false
   - block:  collection
     content:
-      title: Publications
+      title: Recent Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -135,6 +135,8 @@ sections:
         folders:
           - publication
         exclude_featured: false
+        exclude_future: false
+        exclude_past: false
     design:
       columns: '2'
       view: citation
