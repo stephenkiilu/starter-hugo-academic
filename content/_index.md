@@ -72,7 +72,6 @@ sections:
       
       
   - block: collection
-    id: talks
     content:
       title: Honours and awards
         - ddd
