@@ -133,7 +133,7 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: collection
+  - block:  Publications
     content:
       title: Recent Publications
       text: |-
