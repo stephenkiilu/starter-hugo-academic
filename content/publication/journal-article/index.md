@@ -1,5 +1,5 @@
 ---
-title: "Pivot Pre-finetuning for Low Resource MT: A Case Study in KikambaS"
+title: "Pivot Pre-finetuning for Low Resource MT: A Case Study in Kikamba"
 authors:
 - admin
 - Machel Reid
