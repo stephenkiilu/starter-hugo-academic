@@ -125,8 +125,8 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block:  Collection
+    id: publication
     content:
-      id: Publications
       title: Recent Publications
       text: |-
         {{% callout note %}}
