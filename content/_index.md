@@ -97,7 +97,7 @@ sections:
           description: ''
           organization: DataCamp
           organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          title: 'Object-Oriented Programming in Rrrr'
           url: ''
     design:
       columns: '2'
