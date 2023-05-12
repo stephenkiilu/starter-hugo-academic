@@ -1,77 +1,38 @@
 ---
-title: Display Jupyter Notebooks with Academic
-subtitle: Learn how to blog in Academic using Jupyter notebooks
-summary: Learn how to blog in Academic using Jupyter notebooks
-authors:
-  - admin
-tags: []
-categories: []
+title: How Climate Change is Impacting Businesses
+subtitle:
+
+summary: Climate change is one of the most challenging issues of our time. The impacts of climate change are felt in every industry, affecting people and how businesses operate. According to a 2019 International Labour Organization (ILO) report, climate change will result in billions of dollars in economic losses and the loss of approximately 80 million jobs globally by 2030. Global warming as a result of greenhouse gas emissions is evident virtually in every corner of the globe. According to an analysis from NASA, the year 2020 was the warmest in recorded history, and the present century is the warmest ever... [more](https://medium.com/@ngumbikiilu95/how-climate-change-is-affecting-women-and-girls-a8949137039e)
+
+# Link this post with a project
 projects: []
-date: '2019-02-05T00:00:00Z'
-lastMod: '2019-09-05T00:00:00Z'
+
+# Date published
+date: '2020-12-13T00:00:00Z'
+
+# Date updated
+lastmod: '2020-12-13T00:00:00Z'
+
+# Is this an unpublished draft?
+draft: false
+
+# Show this page in the Featured widget?
+featured: false
+
+# Featured image
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: ''
   focal_point: ''
+  placement: 2
+  preview_only: false
+
+authors:
+  - admin
+
+tags:
+
+categories:
+
 ---
-
-```python
-from IPython.core.display import Image
-Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
-```
-
-![png](./index_1_0.png)
-
-```python
-print("Welcome to Academic!")
-```
-
-    Welcome to Academic!
-
-## Install Python and JupyterLab
-
-[Install Anaconda](https://www.anaconda.com/distribution/#download-section) which includes Python 3 and JupyterLab.
-
-Alternatively, install JupyterLab with `pip3 install jupyterlab`.
-
-## Create or upload a Jupyter notebook
-
-Run the following commands in your Terminal, substituting `<MY-WEBSITE-FOLDER>` and `<SHORT-POST-TITLE>` with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:
-
-```bash
-mkdir -p <MY-WEBSITE-FOLDER>/content/post/<SHORT-POST-TITLE>/
-cd <MY-WEBSITE-FOLDER>/content/post/<SHORT-POST-TITLE>/
-jupyter lab index.ipynb
-```
-
-The `jupyter` command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.
-
-## Edit your post metadata
-
-The first cell of your Jupter notebook will contain your post metadata ([front matter](https://sourcethemes.com/academic/docs/front-matter/)).
-
-In Jupter, choose _Markdown_ as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:
-
-```
----
-title: My post's title
-date: 2019-09-01
-
-# Put any other Academic metadata here...
----
-```
-
-Edit the metadata of your post, using the [documentation](https://sourcethemes.com/academic/docs/managing-content) as a guide to the available options.
-
-To set a [featured image](https://sourcethemes.com/academic/docs/managing-content/#featured-image), place an image named `featured` into your post's folder.
-
-For other tips, such as using math, see the guide on [writing content with Academic](https://wowchemy.com/docs/content/writing-markdown-latex/).
-
-## Convert notebook to Markdown
-
-```bash
-jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
-```
-
-## Example
-
-This post was created with Jupyter. The orginal files can be found at https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter
+Climate change is one of the most challenging issues of our time. The impacts of climate change are felt in every industry, affecting people and how businesses operate. According to a 2019 International Labour Organization (ILO) report, climate change will result in billions of dollars in economic losses and the loss of approximately 80 million jobs globally by 2030. Global warming as a result of greenhouse gas emissions is evident virtually in every corner of the globe. According to an analysis from NASA, the year 2020 was the warmest in recorded history, and the present century is the warmest ever... [more](https://medium.com/@ngumbikiilu95/how-climate-change-is-affecting-women-and-girls-a8949137039e)
