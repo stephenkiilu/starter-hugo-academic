@@ -2,7 +2,7 @@
 title: Plastic Menace in Ghana
 subtitle:
 
-summary: It is no secret that plastic is ubiquitous. Plastic pollution is one of the most serious environmental issues of the 21st century. Plastics are not only detrimental to the environment, but they are also harmful to animal and human health. According to the United Nations Environment Programme (UNEP), the equivalent of one garbage truck’s worth of plastic is dumped into the oceans every minute. Ghana is not exempted, though, as the problem of solid waste is apparent throughout the country. The majority of plastic in Ghana originates from plastic bags and food wrappers, which have a short lifespan yet remain in the environment for centuries... [more](https://medium.com/@ngumbikiilu95/plastic-menace-in-ghana-525e8f090450)
+summary: It is no secret that plastic is ubiquitous. Plastic pollution is one of the most serious environmental issues of the 21st century... [more](https://medium.com/@ngumbikiilu95/plastic-menace-in-ghana-525e8f090450)
 
 # Link this post with a project
 projects: []
