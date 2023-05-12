@@ -98,9 +98,9 @@ sections:
       view: compact
       columns: '2'
   - block: portfolio
-    id: projects
+    id: 
     content:
-      title: Projects
+      title: 
       filters:
         folders:
           - project
