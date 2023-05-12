@@ -9,10 +9,10 @@ title: How climate change is affecting women and girls
 projects: https://medium.com/@ngumbikiilu95/how-climate-change-is-affecting-women-and-girls-a8949137039e
 
 # Date published
-date: '2020-12-13T00:00:00Z'
+date: '2023-05-13T00:00:00Z'
 
 # Date updated
-lastmod: '2020-12-13T00:00:00Z'
+lastmod: '2023-05-13T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
