@@ -63,7 +63,7 @@ In other news, I am very passionate about ML community, teaching, learning and r
 
 <!-- {{< icon name="download" pack="fas" >}} Download my [resume]('https://drive.google.com/file/d/15GmMc6WD01R2Y4ISvYm66E9SBrRU6yXD/view?usp=share_link') -->
 
-News:
+**News:**
 
   - May, 2023: Co-organizer [Practical Machine Learning for Developing Countries Workshop](https://pml4dc.github.io/iclr2023/) at ICLR 2023, Kigali, Rwanda. 
   - Aug, 2022: Co-organizer [TrustAI Workshop](https://trustaideepindaba.github.io/) at Deep Learning Indaba, Tunis..
