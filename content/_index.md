@@ -97,12 +97,6 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-  - block:
-    id: 
-    content:
-      title: 
-      filters:
-        folders:
       
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
