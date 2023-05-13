@@ -98,7 +98,7 @@ sections:
       view: compact
       columns: '2'
       
-  - block:  collection
+  - block: about.biography
     id: featured
     content:
       title: Recent Publications
