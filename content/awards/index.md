@@ -14,9 +14,13 @@ tags:
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-        - The 1st place female-identified African citizen currently residing in Africa , ICLR Workshop Challenge 1: CGIAR Computer Vision for Crop Disease. 2020.
-        - The 1st place of the Snapshot Serengeti Hackathon challenge , Deep Learning Indabaaaaaa 2019. Nairobi, Kenya
-        - Winning the cassava challenge which is part of kaggle competitions and travel award to CVPR 2019.
-        - AMMI Scholarship , Full scholarship for the African Master in Machine Intelligence (AMMI). 2018
-        - AIMS Scholarship , Master card foundation scholarship for one year master program at AIMS. 2017.
+  - The 1st place female-identified African citizen currently residing in Africa , ICLR Workshop Challenge 1: CGIAR Computer Vision for Crop Disease. 2020.
+
+  - The 1st place of the Snapshot Serengeti Hackathon challenge , Deep Learning Indaba 2019. Nairobi, Kenya
+
+  - Winning the cassava challenge which is part of kaggle competitions and travel award to CVPR 2019.
+
+  - AMMI Scholarship , Full scholarship for the African Master in Machine Intelligence (AMMI). 2018
+
+  - AIMS Scholarship , Master card foundation scholarship for one year master program at AIMS. 2017.
 
