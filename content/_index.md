@@ -131,7 +131,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - post
+          - awards
         author: ""
         category: ""
         tag: ""
