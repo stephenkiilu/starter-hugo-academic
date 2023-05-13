@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Honors and Awards
 cms_exclude: true
 
 # View.
