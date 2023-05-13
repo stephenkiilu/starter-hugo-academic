@@ -131,8 +131,8 @@ sections:
     content:
       title: Contact
       # Contact (add or remove contact options as necessary)
-      - skiilu@aimsammi.org
-      - +254 701 739 786
+      skiilu@aimsammi.org
+      +254 701 739 786
       address:
        # street: 450 Serra Mall
       #  city: Stanford
