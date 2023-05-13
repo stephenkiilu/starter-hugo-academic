@@ -118,10 +118,12 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
+      title: 'Honors and Awards'
+        
+        - The 1st place female-identified African citizen currently residing in Africa , ICLR Workshop Challenge 1: CGIAR Computer Vision for Crop Disease. 2020.
+        - The 1st place of the Snapshot Serengeti Hackathon challenge , Deep Learning Indaba 2019. Nairobi, Kenya
+        - Winning the cassava challenge which is part of kaggle competitions and travel award to CVPR 2019.
+         
     design:
       columns: '2'
       view: compact
