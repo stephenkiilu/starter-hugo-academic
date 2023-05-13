@@ -140,7 +140,7 @@ sections:
       items:
         - title: xx
           company: c
-          company_url: 'https://github.com/stephenkiilu/starter-hugo-academic/edit/main/content/_index.md'
+          company_url: ''
           company_logo: cc
           location: cc
           date_start: '12'
