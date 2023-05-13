@@ -121,7 +121,7 @@ sections:
       view: compact
       
     
-  - block: collection
+  - block: 
     content:
       title: Honors and Awards
       subtitle: ''
