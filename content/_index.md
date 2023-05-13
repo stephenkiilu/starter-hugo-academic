@@ -120,7 +120,6 @@ sections:
       subtitle: ''
       text: ''
       items:
-
           description: |2-
             A mandate with the iSpace Foundation in Accra, Ghana. 
             Responsibilities include:
