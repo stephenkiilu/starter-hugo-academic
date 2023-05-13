@@ -126,27 +126,33 @@ sections:
       columns: '2'
     
     
-  - block: contact
-    id: contact
+  - block: portfolio
+    id: posts
     content:
-      title: Contact
-      # Contact (add or remove contact options as necessary)
-      skiilu@aimsammi.org
-      +254 701 739 786
-      address:
-       # street: 450 Serra Mall
-      #  city: Stanford
-        region: Nairobi
-        postcode: '001'
-        country: Kenya
-        country_code: 054
-     # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      # Automatically link email and phone or display as text?
-      # Email form provider
-
+      title: awards
+      subtitle: ''
+      text: ''
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 5
+      # Filter on criteria
+      filters:
+        folders:
+          - post
+        author: ""
+        category: ""
+        tag: ""
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ""
+      # Choose how many pages you would like to offset by
+      offset: 0
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc
     design:
+      # Choose a layout view
+      view: compact
       columns: '2'
-    
     
     
   - block: contact
