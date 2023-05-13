@@ -116,7 +116,6 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: talks
     content:
       title: 'Honors and Awards'
         
