@@ -121,7 +121,7 @@ sections:
       view: compact
       
     
-  - block: 
+  - block: about.biography
     content:
       title: Honors and Awards
       subtitle: ''
