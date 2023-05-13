@@ -137,7 +137,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - awards
+          - project
         author: ""
         category: ""
         tag: ""
