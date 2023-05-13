@@ -121,9 +121,9 @@ sections:
       view: compact
       
     
-  - block: experience
+  - block: collection
     content:
-      title: Honors and Awardssss
+      title: Honors and Awards
       subtitle: ''
       text: ''
       items:
