@@ -121,9 +121,9 @@ sections:
       view: compact
       
     
-  - block: about.biography
+  - block: experience
     content:
-      title: Honors and Awards
+      title: Honors and Awardssss
       subtitle: ''
       text: ''
       items:
