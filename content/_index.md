@@ -126,35 +126,24 @@ sections:
       columns: '2'
     
     
-  - block: experience
+  - block: contact
+    id: contact
     content:
-      title: Honours and awards
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: xx
-          company: c
-          company_url: ''
-          company_logo: cc
-          location: cc
-          date_start: '12'
-          date_end: '12'
+      title: Contact
+      # Contact (add or remove contact options as necessary)
+      email: skiilu@aimsammi.org
+      phone: +254 701 739 786
+      address:
+       # street: 450 Serra Mall
+      #  city: Stanford
+        region: Nairobi
+        postcode: '001'
+        country: Kenya
+        country_code: 054
+     # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      # Automatically link email and phone or display as text?
+      # Email form provider
 
-          description: |2-
-            A mandate with the iSpace Foundation in Accra, Ghana. 
-            Responsibilities include:
-
-              * Supported the iSpace Foundation’s climate change programs.
-              * Developed policies that support the iSpace Foundation’s 2021–2025 climate action agenda.
-              * Conducted training and workshops to build climate change capacity for communities in Ghana.
-              * Led the iSpace Foundation’s climate change research and outreach activitiessss.
-                      
     design:
       columns: '2'
     
