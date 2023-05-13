@@ -25,14 +25,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Environment and Sustainability Advisor
-          company: Crossroads International
-          company_url: 'https://cintl.org/'
-          company_logo: org-gc
-          location: Montreal, Canada
-          date_start: '2022-09-01'
-          date_end: '2023-04-01'
-          description: |2-
+
             A mandate with the iSpace Foundation in Accra, Ghana. 
             Responsibilities include:
 
