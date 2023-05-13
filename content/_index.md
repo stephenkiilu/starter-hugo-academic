@@ -98,7 +98,7 @@ sections:
       view: compact
       columns: '2'
       
-  - block: about.biography
+  - block: collection
     id: featured
     content:
       title: Recent Publications
@@ -121,7 +121,7 @@ sections:
       view: compact
       
     
-  - block: collection
+  - block: about.biography
     content:
       title: Honors and Awards
       subtitle: ''
