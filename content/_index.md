@@ -120,9 +120,9 @@ sections:
       columns: '2'
       view: compact
       
-    - block: collection
-      content:
-        title: 'Honors and Awards'
+  - block: collection
+    content:
+      title: 'Honors and Awards'
           
   - block: contact
     id: contact
