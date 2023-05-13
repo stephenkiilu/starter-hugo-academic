@@ -126,23 +126,22 @@ sections:
       title: Honors and Awards
       subtitle: ''
       text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        folders:
-          - awards
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
+      items:
+        - title: Environment and Sustainability Advisor
+          company: Crossroads International
+          company_url: 'https://cintl.org/'
+          company_logo: org-gc
+          location: Montreal, Canada
+          date_start: '2022-09-01'
+          date_end: '2023-04-01'
+          description: |2-
+            A mandate with the iSpace Foundation in Accra, Ghana. 
+            Responsibilities include:
+
+              * Supported the iSpace Foundation’s climate change programs.
+              * Developed policies that support the iSpace Foundation’s 2021–2025 climate action agenda.
+              * Conducted training and workshops to build climate change capacity for communities in Ghana.
+              * Led the iSpace Foundation’s climate change research and outreach activities.
     design:
       # Choose a layout view
       view: compact
