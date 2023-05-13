@@ -138,13 +138,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: 
-          company:
-          company_url:
-          company_logo: 
-          location: 
-          date_start: 
-          date_end: 
+        - title: xx
+          company: c
+          company_url: 'https://github.com/stephenkiilu/starter-hugo-academic/edit/main/content/_index.md'
+          company_logo: cc
+          location: cc
+          date_start: '12'
+          date_end: '12'
 
           description: |2-
             A mandate with the iSpace Foundation in Accra, Ghana. 
