@@ -131,7 +131,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - awards
+          - publication
         author: ""
         category: ""
         tag: ""
