@@ -1,18 +1,14 @@
 ---
-# title: 
-# summary:
-tags:
+# This file represents a page section.
+headless: true
 
+# Order that this section appears on the page.
+weight: 70
 
-# Optional external URL for project (replaces project detail page).
+title: 'Honors and Awards'
 
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-# slides: example
+design:
+  columns: '2'
 ---
   - The 1st place female-identified African citizen currently residing in Africa , ICLR Workshop Challenge 1: CGIAR Computer Vision for Crop Disease. 2020.
 
